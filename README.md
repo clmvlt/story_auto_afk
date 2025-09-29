@@ -61,7 +61,7 @@ Le script recherche automatiquement une fenêtre contenant "storylife" et "fivem
 
 ## 📄 License
 
-© 2024 DIMZOU - Tous droits réservés
+© 2025 DIMZOU - Tous droits réservés
 
 ## 👤 Auteur
 
