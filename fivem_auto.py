@@ -161,8 +161,8 @@ def main():
                     logging.info("Fenêtre fermée après traitement, reset du cycle")
                     logging.info("Forçage de l'arrêt des processus FiveM...")
                     kill_fivem_processes()
-                    logging.info("Attente de 60 secondes avant de relancer FiveM...")
-                    time.sleep(60)
+                    logging.info("Attente de 360 secondes avant de relancer FiveM...")
+                    time.sleep(360)
                     already_processed = False
                     last_launch_time = None
 
